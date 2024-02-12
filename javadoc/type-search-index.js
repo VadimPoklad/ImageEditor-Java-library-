@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.image.converter.operation","l":"ColorManager"},{"p":"org.image.converter.operation","l":"EffectManager"},{"p":"org.image.converter.source","l":"Image"},{"p":"org.image.converter.source","l":"IOManager"}]
